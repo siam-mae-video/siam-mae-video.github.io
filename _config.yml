@@ -1,0 +1,11 @@
+name: SiamMAE
+title: SiamMAE
+description: SiamMAE
+domain: siam-mae-video.github.io
+url: https://siam-mae-video.github.io
+remote_theme: pages-themes/cayman@v0.2.0
+markdown: kramdown
+plugins:
+- jekyll-remote-theme
+
+
